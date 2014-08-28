@@ -37,4 +37,6 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'therubyracer', platforms: :ruby
+gem 'twitter-bootswatch-rails'
+gem 'twitter-bootswatch-rails-helpers'
